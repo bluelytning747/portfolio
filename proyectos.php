@@ -64,7 +64,7 @@
                         <div class="col-6 ps-4">
                             <a href="" target="_blank" class="btn btn-rojo">Ver online</a>
                         </div>
-                        <div class="col-6 text-center">
+                        <div class="col-6 text-center link-rojo">
                             <a href="" target="_blank">Código fuente</a>
                         </div>
                     </div>

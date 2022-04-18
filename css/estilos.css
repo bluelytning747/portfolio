@@ -53,6 +53,10 @@ textarea{
 .proyecto img{
     height: 208px;
 }
+.link-rojo a{
+    text-decoration: none;
+    color: #E20000;
+}
 #proyectos footer, #proyectos footer a, #sobre-mi footer, #sobre-mi footer a{
     color: #E20000;
 }
@@ -129,9 +133,6 @@ footer .fa-linkedin-in{
     #inicio .input-home p {
         color: #E20000;
         border: 1px solid #E20000;
-    }
-    #contacto {
-        background-image: url(../images/fondo-proyectos.png);
     }
     footer a{
     color: #E20000;
