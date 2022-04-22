@@ -33,7 +33,7 @@ textarea{
 #sobre-mi{
     background-image: url('../images/fondo-proyectos.png');
     background-repeat: no-repeat;
-    background-size: 100%;
+    background-size: cover;
 }
 #contacto{
     background-image: url('../images/fondo-contacto.png');

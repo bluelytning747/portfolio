@@ -61,7 +61,7 @@
                     <div class="p-3">
                         <img src="images/abmclientes.png" alt="ABM Clientes" class="img-fluid">
                     </div>
-                    <div class="col 12 color-gradiante">
+                    <div class="col-12 color-gradiante">
                         <h2 class="p-3 d-block">ABM CLIENTES</h2>
                     </div>
                     <p class="p-3 pb-5">Alta, baja y modificación de un registro de clientes. Realizado en
@@ -81,7 +81,7 @@
                     <div class="p-3">
                         <img src="images/abmventas.png" alt="ABM Clientes" class="img-fluid">
                     </div>
-                    <div class="col 12 color-gradiante">
+                    <div class="col-12 color-gradiante">
                         <h2 class="p-3 d-block">SISTEMA DE GESTIÓN DE VENTAS</h2>
                     </div>
                     <p class="p-3 pb-5 d-block">Sistema de gestión de clientes, productos y ventas. Realizado en HTML,
@@ -101,7 +101,7 @@
                     <div class="p-3">
                         <img src="images/proyecto-integrador.png" alt="ABM Clientes" class="img-fluid">
                     </div>
-                    <div class="col 12 color-gradiante">
+                    <div class="col-12 color-gradiante">
                         <h2 class="p-3 d-block">PROYECTO INTEGRADOR</h2>
                     </div>
                     <p class="p-3 pb-5 d-block">Proyecto Full Stack desarrollado en PHP, Laravel, Javascript, jQuery,
