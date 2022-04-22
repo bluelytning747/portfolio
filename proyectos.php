@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html lang="es">
+
 <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -12,6 +13,7 @@
         rel="stylesheet" />
     <link rel="stylesheet" href="css/estilos.css" />
 </head>
+
 <body id="proyectos">
     <header>
         <nav class="navbar navbar-expand-md mb-4">
@@ -26,7 +28,7 @@
                             <a class="nav-link px-4 py-1" href="index.php">Inicio</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link px-4 py-1" href="sobre-mi.php">Sobre mi</a>
+                            <a class="nav-link px-4 py-1" href="sobre-mi.php">Sobre mí</a>
                         </li>
                         <li class="nav-item">
                             <a class="nav-link px-4 py-1 active">Proyectos</a>
@@ -55,9 +57,13 @@
         </div>
         <div class="row">
             <div class="col-12 col-sm-4 p-3">
-                <div class="proyecto">
-                    <img src="images/abmclientes.png" alt="ABM Clientes" class="img-fluid">
-                    <h2 class="p-3 d-block">ABM CLIENTES</h2>
+                <div class="row-card proyecto bordes">
+                    <div class="p-3">
+                        <img src="images/abmclientes.png" alt="ABM Clientes" class="img-fluid">
+                    </div>
+                    <div class="col 12 color-gradiante">
+                        <h2 class="p-3 d-block">ABM CLIENTES</h2>
+                    </div>
                     <p class="p-3 pb-5">Alta, baja y modificación de un registro de clientes. Realizado en
                         HTML, CSS, PHP, Bootstrap y Json.</p>
                     <div class="row my-5">
@@ -71,30 +77,41 @@
                 </div>
             </div>
             <div class="col-12 col-sm-4 p-3">
-                <div class="proyecto">
-                    <img src="images/abmventas.png" alt="ABM Clientes" class="img-fluid">
-                    <h2 class="p-3 d-block">SISTEMA DE GESTIÓN DE VENTAS</h2>
-                    <p class="p-3 pb-5 d-block">Sistema de gestión de clientes, productos y ventas. Realizado en HTML, CSS, PHP, MVC, Bootstrap, Js, Ajax, jQuery y MySQL de base de datos.</p>
+                <div class="row-card proyecto bordes">
+                    <div class="p-3">
+                        <img src="images/abmventas.png" alt="ABM Clientes" class="img-fluid">
+                    </div>
+                    <div class="col 12 color-gradiante">
+                        <h2 class="p-3 d-block">SISTEMA DE GESTIÓN DE VENTAS</h2>
+                    </div>
+                    <p class="p-3 pb-5 d-block">Sistema de gestión de clientes, productos y ventas. Realizado en HTML,
+                        CSS, PHP, MVC, Bootstrap, Js, Ajax, jQuery y MySQL de base de datos.</p>
                     <div class="row my-5">
                         <div class="col-6 ps-4">
                             <a href="" target="_blank" class="btn btn-rojo">Ver online</a>
                         </div>
-                        <div class="col-6 text-center">
+                        <div class="col-6 text-center link-rojo">
                             <a href="" target="_blank">Código fuente</a>
                         </div>
                     </div>
                 </div>
             </div>
             <div class="col-12 col-sm-4 p-3">
-                <div class="proyecto">
-                    <img src="images/proyecto-integrador.png" alt="ABM Clientes" class="img-fluid">
-                    <h2 class="p-3 d-block">PROYECTO INTEGRADOR</h2>
-                    <p class="p-3 pb-5 d-block">Proyecto Full Stack desarrollado en PHP, Laravel, Javascript, jQuery, AJAX, HTML, CSS, Mercadopago con panel administrador, gestor de usuarios, módulo de permisos y funcionalidades a fines.</p>
+                <div class="row-card proyecto bordes">
+                    <div class="p-3">
+                        <img src="images/proyecto-integrador.png" alt="ABM Clientes" class="img-fluid">
+                    </div>
+                    <div class="col 12 color-gradiante">
+                        <h2 class="p-3 d-block">PROYECTO INTEGRADOR</h2>
+                    </div>
+                    <p class="p-3 pb-5 d-block">Proyecto Full Stack desarrollado en PHP, Laravel, Javascript, jQuery,
+                        AJAX, HTML, CSS, Mercadopago con panel administrador, gestor de usuarios, módulo de permisos y
+                        funcionalidades a fines.</p>
                     <div class="row my-5">
                         <div class="col-6 ps-4">
                             <a href="" target="_blank" class="btn btn-rojo">Ver online</a>
                         </div>
-                        <div class="col-6 text-center">
+                        <div class="col-6 text-center link-rojo">
                             <a href="" target="_blank">Código fuente</a>
                         </div>
                     </div>
@@ -117,8 +134,9 @@
         </div>
     </footer>
     <div class="whatsapp">
-        <a href="https://api.whatsapp.com/send?phone=541162423341" title="Whatsapp"><i class="fab fa-whatsapp"></i></a>
+        <a href="https://api.whatsapp.com/send?phone=3455436888" title="Whatsapp"><i class="fab fa-whatsapp"></i></a>
     </div>
     <script src="css/bootstrap-5.1.3-dist/js/bootstrap.bundle.min.js"></script>
 </body>
+
 </html>
