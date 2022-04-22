@@ -154,7 +154,7 @@
     </section>
     <section id="experiencia">
       <div class="container">
-        <div class="row col-12 pt-5 pb-4">
+        <div class="row col-12 pt-5 pb-0">
           <h2 class="fw-bold"><i class="fas fa-briefcase px-4"></i>Experiencia laboral</h2>
         </div>
       </div>
@@ -199,7 +199,7 @@
     </section>
     <section id="formacion">
       <div class="container">
-        <div class="row col-12 pt-5 pb-4">
+        <div class="row col-12 pt-5 pb-0">
           <h2 class="fw-bold"><i class="fas fa-graduation-cap px-4"></i>Estudios</h2>
         </div>
       </div>
@@ -244,12 +244,12 @@
     </section>
     <section id="cursos">
       <div class="container mb-3">
-        <div class="row col-12 pt-5 pb-4">
+        <div class="row col-12 pt-4 pb-5">
           <h2 class="fw-bold"><i class="fas fa-graduation-cap px-4"></i> Cursos de desarrollo profesional</h2>
         </div>
       </div>
       <div class="container mb-5">
-        <div class="row py-5 mx-0 mr-sm-3 shadow-lg card-curso bg-white me-sm-3">
+        <div class="row p-5 mx-0 mr-sm-3 shadow-lg card-curso bg-white me-sm-3">
           <div class="col-12 col-sm-6">
             <div class="row">
               <div class="col-2 py-3 my-auto d-none d-sm-block">
