@@ -53,7 +53,7 @@
           <a href="contacto.php" class="btn btn-rojo">Enviar mensaje</a>
         </div>
         <div class="col-12 col-sm-3 mt-4 offset-sm-2">
-          <img src="/images/lucas-caceres.png" alt="Lucas Caceres" title="Lucas Caceres" class="img-fluid img-circle foto">
+          <img src="images/lucas-caceres.png" alt="Lucas Caceres" title="Lucas Caceres" class="img-fluid img-circle foto">
         </div>
       </div>
     </div>
